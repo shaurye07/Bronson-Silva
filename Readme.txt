@@ -1,6 +1,4 @@
-Thanks for downloading this theme!
+Project for Bronson Silva cycles
 
-Theme Name: MyBiz
-Theme URL: https://bootstrapmade.com/mybiz-free-business-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Theme : Carousel
+Author: Shaurye Bhatnagar
